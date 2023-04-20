@@ -1,7 +1,19 @@
-# Hi there, I am Giani! ![imagen](https://user-images.githubusercontent.com/36320743/233233705-4c0ae019-816b-41c3-9a16-02f2ed7be77a.png)
+# Hi there, I am Giani🌺
 
-📚 I am a student at **Universidad ORT**, Montevideo, Uruguay.
+## About Me
 
-👩‍💻 Working as a *Java Developer* at [Globant](www.globant.com).
+📚 I am a Computer Engineering student at **Universidad ORT**, Montevideo, Uruguay.
+
+👩‍💻 Working as a **Java Developer** at **Globant**.
+
+💻 Specialized in backend, but with some knowledge in frontend.
 
 👾 I love learning new technologies, enjoy problem solving and gaming.
+
+## My Main Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Splunk Badge](https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=for-the-badge)
+
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianidev&theme=material-palenight)
+
+
