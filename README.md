@@ -1,4 +1,4 @@
-# Hi there, I am Giani🌺
+# Hi there, I am Giani!
 
 ## About Me
 
