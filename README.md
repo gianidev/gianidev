@@ -1,6 +1,6 @@
 ## Hi there, I'm Giani!
 
-📚 I am a Computer Engineering student at **Universidad ORT**, Montevideo, Uruguay.
+📚 Studying Computer Engineering at **Universidad ORT**, Montevideo, Uruguay.
 
 👩‍💻 Working as a **Java Developer** at **Globant**.
 
