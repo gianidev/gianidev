@@ -1,6 +1,4 @@
-# Hi there, I am Giani!
-
-## About Me
+## Hi there, I'm Giani!
 
 📚 I am a Computer Engineering student at **Universidad ORT**, Montevideo, Uruguay.
 
