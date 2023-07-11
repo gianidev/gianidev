@@ -1,8 +1,8 @@
 ## Hi there, I'm Giani!
 
-📚 Studying Computer Engineering at **Universidad ORT**, Montevideo, Uruguay.
-
 👩‍💻 Working as a **Java Developer** at **Globant**.
+
+📚 Studying **Systems Engineering** at **Universidad ORT**.
 
 💻 Specialized in backend, but with some knowledge in frontend.
 
