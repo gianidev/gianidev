@@ -4,7 +4,7 @@
 
 📚 Studying **Systems Engineering** at **Universidad ORT**.
 
-💻 Specialized in backend, with some knowledge in frontend.
+💻 Specialized in backend, with knowledge in frontend.
 
 👾 I enjoy learning new technologies, problem solving and gaming.
 
